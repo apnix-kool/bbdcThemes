@@ -1817,3 +1817,91 @@ border-color: transparent !important;
 	color: #dd6b1a;
 	border-color: rgba(221, 107, 26,.3);
 }
+.standardSidebarView-3F1I7i .sidebar-CFHs9e .side-8zPYf6 .item-PXvHYJ:hover,
+#bd-settings-sidebar .ui-tab-bar-item:hover {
+	transform: translateX(8px);
+	transition: 500ms;
+}
+.theme-dark {
+	--text-link: #dd6b1a;
+}
+.theme-dark .attachment-33OFj0, 
+.theme-dark .wrapperAudio-1jDe0Q {
+	background-color: #161616;
+	border: none;
+}
+.attachment-33OFj0 .downloadButton-23tKQp, 
+.wrapperAudio-1jDe0Q .metadataIcon-2FyCKU {
+	color: #3A71C1;
+}
+.attachment-33OFj0 .downloadButton-23tKQp:hover, 
+.wrapperAudio-1jDe0Q .metadataIcon-2FyCKU:hover {
+	color: #4789E5;
+	transform: scale(1.07);
+}
+.attachment-33OFj0 .icon-1kp3fr,
+.wrapperAudio-1jDe0Q .audioMetadata-3zOuGv:before {
+	filter: invert(0.98) hue-rotate(-30deg) saturate(1.4);
+}
+.attachment-33OFj0 .progressBar-3u8FBM {
+	background-color: #3A71C1 !important;
+}
+.isUnread-3Ef-o9 {
+	border-color: #dd6b1a;
+}
+.unreadPill-2HyYtt {
+	background-color: #dd6b1a;
+}
+.unreadPillCapStroke-7rkHbg {
+	color: #dd6b1a;
+	fill: #dd6b1a;
+}
+.scroller-2XE8rp {
+	background-color: #0b0b0b;
+}
+#pubslayer button {
+	background: #dd6b1a;
+}
+.public-DraftEditorPlaceholder-hasFocus {
+color: #0b0b0b;
+}
+.searchResultMessage-2VxO12.hit-NLlWXA {
+	box-shadow: 0 0 6px 2px #dd6b1a;
+	background-color: #0f0f0f;
+	border: 1px solid #dd6b1a;
+}
+.theme-dark {
+	--channeltextarea-background: #0f0f0f;
+	--background-modifier-accent: #dd6b1a;
+}
+.cardPrimary-1Hv-to, .cardPrimaryEditable-3KtE4g{
+	border-color: #dd6b1a;
+}
+.theme-dark .closeButton-1tv5uR {
+	border-color: #dd6b1a;
+}
+.theme-dark .keybind-KpFkfr {
+	color: #dd6b1a;
+}
+.standardSidebarView-3F1I7i .side-8zPYf6 *[style*="color: rgb(114, 137, 218)"] {
+	color: #AEAEAE !important;
+}
+.standardSidebarView-3F1I7i .side-8zPYf6 *[style*="background-color: rgb(221, 107, 26)"]::after,
+.standardSidebarView-3F1I7i .side-8zPYf6 *[style*="background-color: rgb(114, 137, 218)"] {
+	background-color: #dd6b1a !important;
+	color: #FFFFFF !important;
+	opacity: 1 !important;
+}
+.css-15ejc46-control {
+	border-color: #dd6b1a;
+	background-color: #0f0f0f;
+}
+.css-2yldzf-control:hover {
+	border-color: #dd6c1a;
+}
+.css-2yldzf-control {
+	background-color: #0f0f0f;
+}
+.title-3qD0b-, .titleCall-_b9o8P {
+	box-shadow: inset 0 -1px 0 #dd6b1a!important;
+}
