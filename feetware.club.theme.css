@@ -1358,7 +1358,7 @@ border-color: transparent !important;
 .theme-dark .attachment-33OFj0 {
     box-shadow: 0 0 0 1px #3c3c3c,0 0 0 2px #282828,0 0 0 3px #3c3c3c,0 0 0 4px #0a0a0a;
     border-radius: 0px!important;
-    background: var(--mention-color)!important;
+    background: #0f0f1z!important;
 }
 
 .weightSemiBold-1WYsXZ {
@@ -1565,7 +1565,7 @@ border-color: transparent !important;
 }
 
 .messages-3amgkR::-webkit-scrollbar-thumb {
-    background: orange !important;
+    background: #dd6b1a !important;
 }
 
 .channelTextArea-rNsIhG ::-webkit-scrollbar {
@@ -1904,4 +1904,114 @@ color: #0b0b0b;
 }
 .title-3qD0b-, .titleCall-_b9o8P {
 	box-shadow: inset 0 -1px 0 #dd6b1a!important;
+}
+
+
+/*28th*/
+
+
+.theme-dark .modal-yWgWj- {
+	background-color: #0f0f0f;
+}
+.rtcConnectionStatusConnected-VRZDjy {
+	color: #dd6b1a;
+}
+.rtcConnectionQualityFine-2J6i8z .ping-2NgC8E {
+	color: #dd6b1a;
+}
+.iconContainer-3GkGRf {
+	filter: invert(0.98) hue-rotate(69deg) saturate(1.4);
+}
+.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+	background-color: #0f0f0f;
+}
+.theme-dark .footer-2VgWkh {
+	background-color: #0b0b0b;
+}
+.hasMore-3e72_v {
+	color: #dd6b1a;
+}
+.searchBar-3dMhjb {
+	background-color: #0f0f0f;
+}
+:root {
+	--outline-lightcolor: #dd6b1a;
+	--outline-color: #dd6b1a;
+}
+.resultFocused-3aIoYe {
+	background: #0f0f0f;
+}
+.theme-dark .keybindShortcut-1BD6Z1 span {
+	background-color: #0f0f0f;
+	border: 1px solid #dd6b1a;
+}
+.arrowIcon-1EMN73 {
+	 filter: brightness(0.5) sepia(1) saturate(1000%) hue-rotate(-10deg);
+}
+
+
+.theme-dark .container-3ayLPN {
+	background-color: #0f0f0f;
+	box-shadow: 0px 1px 2px 1px #131313;
+}
+.container-3ayLPN .option-96V44q.selected-rZcOL- {
+	background-color: #222222;
+}
+.container-3ayLPN .option-96V44q:after, 
+.container-3ayLPN .option-96V44q.selected-rZcOL-:after {
+	background: none;
+}
+.container-3ayLPN .resultsGroup-r_nuzN:before, 
+.container-3ayLPN .datePicker--XZbmJ .datePickerHint-3Q1Udw {
+	border-top: 1px solid #dd6b1a;
+}
+.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6 {
+	background-color: #0f0f0f;
+}
+.theme-dark .changeButton-1uBsOn {
+	background-color: #0a0a0a;
+}
+.theme-dark .art-2gnmb7 {
+	filter: hue-rotate(169deg);
+}
+.platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(10)::before {
+	filter: hue-rotate(80deg);
+}
+.platform-win #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(11)::before {
+	filter: invert(0.94) hue-rotate(175deg) brightness(2);
+}
+.horizontalReverse-2eTKWD>.flex-1xMQg5:first-child, .horizontalReverse-2eTKWD>.flexChild-faoVW3:first-child {
+	filter: hue-rotate(169deg) brightness(1) contrast(2.3);
+}
+.added-e1Pp41 {
+	color: #dd6b1a;
+}
+.added-e1Pp41:after {
+	background-color: #dd6b1a;
+}
+.item-1GzJrl.invite-271nFU {
+	color: #dd6b1a;
+}
+.premiumGuildIcon-BhwtRn {
+	color: #dd6b1a;
+}
+.statusGreen-168O6Q {
+	color: #dd6b1a;
+}
+.wrapper-3D2qGf {
+	background-color: #0f0f0f;
+}
+.theme-dark .inset-3sAvek {
+	background-color: #121212;
+}
+.input-1Rv96N {
+	background: #0f0f0f;
+	border: #dd6b1a;
+	margin: 1.2px;
+}
+.theme-dark .friendSelected-1sa4bG {
+	background-color: rgba(40, 42, 46,.3);
+}
+.callAvatarBorder-uWp8Ga.video-3SrWSI.speaking-B2MXPi {
+	box-shadow: inset 0 0 0 1.3px #dd6b1a;
 }
