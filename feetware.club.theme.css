@@ -2049,3 +2049,28 @@ color: #0b0b0b;
 .bd-switch-checked {
 	background-color: #dd6b1a;
 }
+.avatarSpeaking-3MqCHL {
+	box-shadow: inset 0 0 0 1px #dd6b1a,inset 0 0 0 1px #dd6b1a;
+}
+.permissionCheckmark-1SeKr2 {
+	filter: hue-rotate(235deg);
+}
+.theme-dark .questionMark-CWEQZn {
+	background-color: #dd6b1a;
+}
+.badgeUpgrade-3c0xFm {
+	color: #dd6b1a;
+}
+.bd-server-card.bd-server-card-pinned:after {
+	background: #dd6b1a;
+}
+#pubslayer .ui-tab-bar-item.selected {
+	background-color: #dd6b1a;
+}
+.checkbox-3kaeSU .checkboxInner-3yjcPe .checkboxElement-1qV33p:checked+span {
+	background-color: #dd6b1a;
+	border-color: #dd6b1a;
+}
+.iconBadge-qZ4Ksk {
+	background-color: #dd6b1a;
+}
