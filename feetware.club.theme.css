@@ -2074,3 +2074,32 @@ color: #0b0b0b;
 .iconBadge-qZ4Ksk {
 	background-color: #dd6b1a;
 }
+
+
+/*april 2nd*/
+
+
+:root	{
+	--background-floating: #0b0b0b;
+}
+.userPopout-3XzG_A.da-userPopout:before {
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 200% 200%;
+	animation: gradient 6.9s linear infinite;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+.bd-pfbtn:hover	{
+	background: #d98345;
+	transition: 0.3s;
+}
